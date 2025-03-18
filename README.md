@@ -39,7 +39,7 @@ FinTrack is a modern finance management app built with Kotlin, Jetpack Compose, 
 📷 Screenshots
 
 
-![Screenshot 2025-03-18 at 3 03 31 AM](https://github.com/user-attachments/assets/76e4c23e-04a7-45ee-8f03-3a8bf771554f)
+![Screenshot 2025-03-18 at 3 10 37 AM](https://github.com/user-attachments/assets/f5e07bfa-b7c9-4f4a-bc6d-d70aa02b6a0a)
 ![Screenshot 2025-03-18 at 3 03 48 AM](https://github.com/user-attachments/assets/dc261eb2-6cbd-4645-bf77-c269808592f6)
 ![Screenshot 2025-03-18 at 3 03 53 AM](https://github.com/user-attachments/assets/69f73a9b-32bb-4994-b8a8-df93257bd88a)
 ![Screenshot 2025-03-18 at 3 04 00 AM](https://github.com/user-attachments/assets/db9a01cf-a68c-4fdd-ad68-5e52c806dc14)
