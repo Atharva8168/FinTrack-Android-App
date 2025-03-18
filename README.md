@@ -1,7 +1,3 @@
-Here’s a structured README.md file for your FinTrack Android App repository on GitHub:
-
-⸻
-
 FinTrack - Smart Expense Tracker App 📊💰
 
 📌 About FinTrack
